@@ -1,6 +1,6 @@
 {
   "name": "hain-plugin-dice",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Hain plugin to roll dice using RPG dice notation",
   "main": "index.js",
   "keywords": [
@@ -11,6 +11,6 @@
     "usage": "type /roll to roll dice (e.g. 2d6)",
     "icon": "#fa fa-leaf",
     "redirect": "/g"
-  }
+  },
   "author": "Jordan L"
 }
