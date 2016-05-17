@@ -1,4 +1,4 @@
-# hain-plugin-roll
+# hain-plugin-dice
 
 A simple dice rolling plugin for [Hain](https://github.com/appetizermonster/hain) and [d20](https://www.npmjs.com/package/d20).
 
@@ -6,7 +6,7 @@ A simple dice rolling plugin for [Hain](https://github.com/appetizermonster/hain
 Open Hain and type
 
 ```
-/hpm install hain-plugin-roll
+/hpm install hain-plugin-dice
 ```
 
 # Usage
