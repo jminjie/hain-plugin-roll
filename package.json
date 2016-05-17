@@ -1,0 +1,18 @@
+{
+  "name": "hain-plugin-dice",
+  "version": "0.0.1",
+  "description": "Hain plugin to roll dice",
+  "main": "index.js",
+  "keywords": [
+    "hain-0.3.0",
+    "hain",
+    "dice",
+    "hain-plugin-dice"
+  ],
+  "hain": {
+    "prefix": "/roll",
+    "usage": "type /dice to roll dice (e.g. 2d6)",
+    "icon": "#fa fa-leaf",
+    "redirect": "/g"
+  }
+}
