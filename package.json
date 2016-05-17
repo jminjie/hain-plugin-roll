@@ -1,6 +1,6 @@
 {
   "name": "hain-plugin-dice",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Hain plugin to roll dice",
   "main": "index.js",
   "keywords": [
