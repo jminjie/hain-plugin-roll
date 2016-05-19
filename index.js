@@ -91,8 +91,11 @@ module.exports = (pluginContext) => {
             logger.log("executing roll!");
             try {
                 var result = d20roll(payload);
+                if (isNaN(result)) {
+                    throw "NaN";
+                }
             } catch (err) {
-                var result = '';
+                var result = 'Invalid notation.';
             }
             currentRes.add({
                 id: "roll_" + count,
